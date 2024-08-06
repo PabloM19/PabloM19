@@ -1,7 +1,9 @@
+![bannercito](https://github.com/user-attachments/assets/139ac98e-a1ba-49e2-9079-5c3a124e36db)
+
 <h1 align="center">Hola 👋 Soy Pablo Molero</h1>
 <h3 align="center">Soy un joven entusiasta del desarrollo web, diseño gráfico y administración de redes, nacido en Valencia, España. Me gusta combinar mis habilidades de desarrollo y diseño para crear soluciones elegantes, minimalistas y atractivas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PabloM19&label=Profile%20views&color=0e75b6&style=flat" alt="pablom19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PabloM19&label=Profile%20views&color=f5a742&style=flat" alt="pablom19" /> </p>
 
 - 🔭 Actualmente estoy trabajando en Fake Store, un e-commerce realizado con React y usando la API pública de <a href="https://fakestoreapi.com/docs">FakeStoreAPI</a>
 
@@ -113,7 +115,7 @@
     </div>
 </div>
 
-## Otras herramientas
+## Otras herramientas y habilidades
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
@@ -126,8 +128,14 @@
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
             <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
         </a>
+        <a href="https://google.com" target="_blank" rel="noreferrer"> 
+            <img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="agile-scrum" width="40" height="40"/> 
+        </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+            <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Illustrator.png" alt="illustrator" width="40" height="40"/> 
+        </a>
+        <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png" alt="photoshop" width="40" height="40"/> 
         </a>
     </div>
 </div>
