@@ -15,8 +15,6 @@
 
 <hr>
 
-<h1 align="left">Habilidades de desarrollo y herramientas:</h1>
-
 ## Lenguajes de programación
 
 <div style="display: flex;">
