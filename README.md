@@ -15,7 +15,7 @@
 
 <hr>
 
-<h3 align="left">Habilidades de desarrollo y herramientas:</h3>
+<h1 align="left">Habilidades de desarrollo y herramientas:</h1>
 
 ## Lenguajes de programación
 
