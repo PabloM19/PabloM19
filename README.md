@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Soy Pablo Molero</h1>
-<h3 align="center">Soy un joven entusiasta del desarrollo web y el diseño gráfico, nacido en Valencia, España. Me gusta combinar mis habilidades de desarrollo y diseño para crear soluciones elegantes, minimalistas y atractivas.</h3>
+<h3 align="center">Soy un joven entusiasta del desarrollo web, diseño gráfico y administración de redes, nacido en Valencia, España. Me gusta combinar mis habilidades de desarrollo y diseño para crear soluciones elegantes, minimalistas y atractivas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PabloM19&label=Profile%20views&color=0e75b6&style=flat" alt="pablom19" /> </p>
 
@@ -17,39 +17,42 @@
 
 <h3 align="left">Habilidades de desarrollo y herramientas:</h3>
 
-## Programming Languages
+## Lenguajes de programación
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
         </a>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+        </a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+            </a>
+        <a href="https://www.php.net/manual/es/function.phpinfo.php" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
         </a>
     </div>
 </div>
 
-## Backend Development
+## Desarrollo Back-End
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
         </a>
+        <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" alt="spring" width="40" height="40"/> 
+        </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-        </a>
-           <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
         </a>
     </div>
 </div>
 
-## Frontend Development
+## Desarrollo Front-End
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
@@ -65,10 +68,16 @@
            <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
         </a>
+        <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+        </a>
+        <a href="https://bulma.io/documentation/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bootstrap" width="40" height="40"/> 
+        </a>
     </div>
 </div>
 
-## Database
+## Bases de datos
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
@@ -81,7 +90,7 @@
     </div>
 </div>
 
-## Devops
+## DevOps
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
@@ -91,16 +100,34 @@
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
         </a>
+        <a href="https://www.apache.com" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
+        </a>
+        <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+        </a>
            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        </a>
+        <a href="https://www.microsoft.com/es-es/windows?r=" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="windows" width="40" height="40"/> 
         </a>
     </div>
 </div>
 
-## Design and Other Tools
+## Otras herramientas
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
+        <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+        </a>
+        <a href="https://github.com" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40"/> 
+        </a>
+        <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+        </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
         </a>
