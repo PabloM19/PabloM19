@@ -1,5 +1,3 @@
-![bannercito2](https://github.com/user-attachments/assets/9014f99c-d157-4735-b374-dc8b1d0e0859)
-
 <h1 align="center">Hola 👋 Soy Pablo Molero</h1>
 <h3 align="center">Soy un joven entusiasta del desarrollo web, diseño gráfico y administración de redes, nacido en Valencia, España. Me gusta combinar mis habilidades de desarrollo y diseño para crear soluciones elegantes, minimalistas y atractivas.</h3>
 
