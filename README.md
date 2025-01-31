@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PabloM19&label=Profile%20views&color=f5a742&style=flat" alt="pablom19" /> </p>
 
-- 🔭 Actualmente estoy trabajando en Manuel Bou S.L como responsable de ciberseguridad y de transición informática
+- 🔭 Actualmente estoy trabajando en Manuel Bou S.L.
 
 - 🌱 Actualmente mis puntos fuertes del desarrollo web son Angular y Springboot. Estoy aprendiendo React y .NET.
 
